@@ -1,0 +1,86 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Chocolate Cake",
+      "description": "Rich chocolate sponge layered with creamy frosting.",
+      "price": 12.99,
+      "image": "https://via.placeholder.com/150/8e44ad"
+    },
+    {
+      "id": 2,
+      "name": "Strawberry Tart",
+      "description": "Fresh strawberries over a buttery crust.",
+      "price": 10.49,
+      "image": "https://via.placeholder.com/150/e91e63"
+    },
+    {
+      "id": 3,
+      "name": "Vanilla Cupcake",
+      "description": "Classic vanilla flavor with a swirl of frosting.",
+      "price": 3.99,
+      "image": "https://via.placeholder.com/150/f39c12"
+    },
+    {
+      "id": 4,
+      "name": "Macarons Pack",
+      "description": "Assorted colorful French macarons.",
+      "price": 7.50,
+      "image": "https://via.placeholder.com/150/2ecc71"
+    },
+    {
+      "id": 5,
+      "name": "Red Velvet Cake",
+      "description": "Velvety texture with a hint of cocoa.",
+      "price": 14.99,
+      "image": "https://via.placeholder.com/150/c0392b"
+    },
+    {
+      "id": 6,
+      "name": "Blueberry Muffin",
+      "description": "Moist muffin loaded with blueberries.",
+      "price": 4.50,
+      "image": "https://via.placeholder.com/150/2980b9"
+    },
+    {
+      "id": 7,
+      "name": "Croissants",
+      "description": "Flaky buttery croissants, fresh from the oven.",
+      "price": 2.99,
+      "image": "https://via.placeholder.com/150/27ae60"
+    },
+    {
+      "id": 8,
+      "name": "Donuts Box",
+      "description": "Glazed, chocolate and strawberry donuts.",
+      "price": 9.99,
+      "image": "https://via.placeholder.com/150/8e44ad"
+    },
+    {
+      "id": 9,
+      "name": "Cheesecake Slice",
+      "description": "Smooth and creamy cheesecake.",
+      "price": 6.75,
+      "image": "https://via.placeholder.com/150/f1c40f"
+    },
+    {
+      "id": 10,
+      "name": "Fruit Pie",
+      "description": "Mixed fruit pie with a crumbly crust.",
+      "price": 11.25,
+      "image": "https://via.placeholder.com/150/9b59b6"
+    }
+  ],
+  "categories": [
+    { "id": 1, "name": "Cakes" },
+    { "id": 2, "name": "Cupcakes" },
+    { "id": 3, "name": "Pies" },
+    { "id": 4, "name": "Cookies" },
+    { "id": 5, "name": "Tarts" },
+    { "id": 6, "name": "Muffins" },
+    { "id": 7, "name": "Breads" },
+    { "id": 8, "name": "Macarons" },
+    { "id": 9, "name": "Pastries" },
+    { "id": 10, "name": "Donuts" }
+  ]
+}
